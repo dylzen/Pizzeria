@@ -1,0 +1,8 @@
+controller\LoginServlet.class
+controller\PizzaServlet.class
+dao\UtenteDAO.class
+model\Pizza.class
+model\Ingrediente.class
+dao\PizzaDAO.class
+model\Impasto.class
+model\Utente.class
